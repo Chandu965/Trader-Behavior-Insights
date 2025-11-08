@@ -45,3 +45,23 @@ Analyze how Bitcoin's Fear & Greed Index influences trader performance and uncov
 1. Clone this repo  
    ```bash
    git clone https://github.com/Chandu965/Trader-Behavior-Insights.git
+
+---
+
+### 🗂️ Project Structure
+Trader-Behavior-Insights/
+├─ notebooks/
+│  └─ SmartTrading_Sentiment_Analysis.ipynb
+├─ models/
+│  ├─ trader_sentiment_model.pkl
+│  └─ scaler.pkl
+├─ results/
+│  ├─ win_rate_by_sentiment.png
+│  ├─ avg_pnl_by_sentiment.png
+│  └─ feature_importance.png
+├─ README.md
+└─ requirements.txt
+
+Each folder is organized for clarity and reproducibility.  
+Anyone can run the notebook, inspect results, and reuse the model.
+
