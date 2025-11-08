@@ -49,6 +49,8 @@ Analyze how Bitcoin's Fear & Greed Index influences trader performance and uncov
 ---
 
 ### 🗂️ Project Structure
+
+```
 Trader-Behavior-Insights/
 ├─ notebooks/
 │  └─ SmartTrading_Sentiment_Analysis.ipynb
@@ -61,7 +63,9 @@ Trader-Behavior-Insights/
 │  └─ feature_importance.png
 ├─ README.md
 └─ requirements.txt
+```
 
 Each folder is organized for clarity and reproducibility.  
 Anyone can run the notebook, inspect results, and reuse the model.
+
 
